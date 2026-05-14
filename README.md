@@ -29,7 +29,6 @@ Master of Nuclear Engineering, NC State (May 2026), recognized as the College of
 
 I'm a researcher on Dr. Xu Wu's [ARTISANS](https://ne.ncsu.edu/artisans/) team at NCSU and a Research Aide at Argonne National Laboratory's Mechanisms Engineering Test Loop (METL) under Dr. Alexander Heifetz. The two case studies in my work, MIRA at Argonne and CORA at the NCSU Nuclear Reactor Program, share a common architectural pattern: **constrained-decision-space agentic AI**, in which the LLM's job is to select from a verified candidate set rather than generate freely. The verification framework I developed alongside them produces the regulatory-grade evidence those deployments will need.
 
-I build with agentic AI tools as a daily practice and treat AI-leveraged engineering as a craft, not a hack. Two refereed journal articles plus ten conference proceedings to date.
 
 ---
 
